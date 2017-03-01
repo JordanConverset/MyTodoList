@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTodoList</string>
+    <string name="vider">Vider la liste</string>
+    <string name="valider">Valider</string>
+    <string name="creer">Créer un Todo</string>
+    <string name="important">Important ?</string>
+</resources>
